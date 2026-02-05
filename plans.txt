@@ -1,0 +1,17 @@
+Player:
+    * ????
+
+
+
+
+
+
+
+Word:
+    letters: String
+
+
+Waffle:
+    * 6 words: List[Word] -> make sure corners and middle match
+    * track each combination
+
